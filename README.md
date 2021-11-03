@@ -6,9 +6,9 @@ Combining professional-grade software engineering skills with UX/UI design skill
 
 Skills: JS/React/Node/Express/CSS
 
-⚡ Here's my portfolio https://pippin.codes/
-⚡ Contact me at hello@pippin.codes
-⚡ I'm currently teaching myself three.js, which I think is the bee's knees
+## ⚡ Here's my portfolio https://pippin.codes/
+## ⚡ Contact me at hello@pippin.codes
+## ⚡ I'm currently teaching myself three.js, which I think is the bee's knees
 
 😄 My pronouns are they/them
 
