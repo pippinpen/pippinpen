@@ -4,6 +4,8 @@ I'm a creative full-stack junior developer working with JavaScript and React, No
 
 Combining professional-grade software engineering skills with UX/UI design skills, I come from an art & design background 🎨 where thinking critically and outside the box is essential!
 
+I care a lot about accessibility & inclusion, institutional pedagogy and tech for good 🌱
+
 Skills: JS/React/Node/Express/CSS
 
 ### ⚡ Here's my portfolio https://pippin.codes/
