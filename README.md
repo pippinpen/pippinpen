@@ -1,6 +1,6 @@
 ### Hi I'm Pip 👋
 
-I'm a creative full-stack junior developer working with JavaScript and React, Node and Express.
+I'm a creative fullstack developer working with JavaScript and React, Node and Express.
 
 Combining professional-grade software engineering skills with UX/UI design skills, I come from an art & design background 🎨 where thinking critically and outside the box is essential!
 
