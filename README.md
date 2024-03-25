@@ -1,16 +1,13 @@
 ### Hi I'm Pip 👋
 
-I'm a creative fullstack developer working with JavaScript and React, Vue, Node and Express.
+Fullstack dev working with JavaScript and React, Svelte, Node and Express.
+I care a lot about accessibility, institutional pedagogy and using tech for good 🌱
 
-Combining software engineering with UX/UI chops, I'm a big believer in co-creation, inclusive design and in communication holding the space to be both critical and caring.
-
-I care a lot about accessibility & inclusion, institutional pedagogy and tech for good 🌱
-
-Skills: JS/React/Vue/Node/Express/SCSS
+Skills: JS/Vue/SCSS/GSAP/Canvas
 
 ### ⚡ Here's my portfolio https://pip.codes/
-### ⚡ Contact me at pippinburkett@gmail.com
-### ⚡ I'm currently experimenting with 3D visual essays using Three.js to deep dive into a topic
+### ⚡ Contact me at piphalev@gmail.com
+### ⚡ Currently making 3D visual essays using Three.js to deep dive into topics
 
 😄 My pronouns are they/them
 
